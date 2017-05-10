@@ -1,0 +1,48 @@
+Springfield, Illinois
+Indianapolis, Indiana
+Frankfort, Kentucky
+Nashville, Tennessee
+Little Rock, Arkansas
+Oklahoma City, Oklahoma
+Austin, Texas
+Baton Rouge, Louisiana
+Jackson, Mississippi
+Montgomery, Alabama
+Tallahassee, Florida
+Atlanta, Georgia
+Columbia, South Carolina
+Raleigh, North Carolina
+Richmond, Virginia
+Annapolis, Maryland
+Dover, Delaware
+Trenton, New Jersey
+Hartford, Connecticut
+Providence, Rhode Island
+Boston, Massachusetts
+Augusta, Maine
+Concord, New Hampshire
+Montpelier, Vermont
+Albany, New York
+Harrisburg, Pennsylvania
+Charleston, West Virginia
+Columbus, Ohio
+Lansing, Michigan
+Madison, Wisconsin
+St. Paul, Minnesota
+Des Moines, Iowa
+Pierre, South Dakota
+Bismarck, North Dakota
+Helena, Montana
+Olympia, Washington
+Salem, Oregon
+Sacramento, California
+Carson City, Nevada
+Boise, Idaho
+Salt Lake City, Utah
+Phoenix, Arizona
+Santa Fe, New Mexico
+Denver, Colorado
+Cheyenne, Wyoming
+Lincoln, Nebraska
+Topeka, Kansas
+Jefferson City, Missouri

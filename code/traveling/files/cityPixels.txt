@@ -1,0 +1,48 @@
+Montgomery, Alabama:1026:683
+Phoenix, Arizona:321:625
+Little Rock, Arkansas:862:609
+Sacramento, California:111:401
+Denver, Colorado:525:438
+Hartford, Connecticut:1331:312
+Dover, Delaware:1281:412
+Tallahassee, Florida:1099:734
+Atlanta, Georgia:1078:627
+Boise, Idaho:271:266
+Springfield, Illinois:919:441
+Indianapolis, Indiana:1007:436
+Des Moines, Iowa:821:385
+Topeka, Kansas:765:471
+Frankfort, Kentucky:1050:477
+Baton Rouge, Louisiana:897:756
+Augusta, Maine:1376:206
+Annapolis, Maryland:1255:418
+Boston, Massachusetts:1361:279
+Lansing, Michigan:1044:328
+St. Paul, Minnesota:823:270
+Jackson, Mississippi:923:691
+Jefferson City, Missouri:858:489
+Helena, Montana:391:194
+Lincoln, Nebraska:741:412
+Carson City, Nevada:160:392
+Concord, New Hampshire:1344:255
+Trenton, New Jersey:1290:369
+Santa Fe, New Mexico:489:565
+Albany, New York:1294:283
+Raleigh, North Carolina:1222:533
+Bismarck, North Dakota:653:204
+Columbus, Ohio:1085:413
+Oklahoma City, Oklahoma:716:591
+Salem, Oregon:129:188
+Harrisburg, Pennsylvania:1236:374
+Providence, Rhode Island:1355:300
+Columbia, South Carolina:1169:597
+Pierre, South Dakota:652:289
+Nashville, Tennessee:1004:553
+Austin, Texas:705:769
+Salt Lake City, Utah:361:378
+Montpelier, Vermont:1307:223
+Richmond, Virginia:1239:474
+Olympia, Washington:150:115
+Charleston, West Virginia:1133:469
+Madison, Wisconsin:914:337
+Cheyenne, Wyoming:539:386

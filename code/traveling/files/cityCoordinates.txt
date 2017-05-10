@@ -1,0 +1,48 @@
+Montgomery, Alabama:-86.2999689:32.3668052
+Phoenix, Arizona:-112.0740373:33.4483771
+Little Rock, Arkansas:-92.2895948:34.7464809
+Sacramento, California:-121.4943996:38.5815719
+Denver, Colorado:-104.9847034:39.7391536
+Hartford, Connecticut:-72.6850932:41.7637111
+Dover, Delaware:-75.5243682:39.158168
+Tallahassee, Florida:-84.2807329:30.4382559
+Atlanta, Georgia:-84.3879824:33.7489954
+Boise, Idaho:-116.2380762:43.6129317
+Springfield, Illinois:-89.6501481:39.7817213
+Indianapolis, Indiana:-86.1580423:39.7683765
+Des Moines, Iowa:-93.6091064:41.6005448
+Topeka, Kansas:-95.6780371:39.0483336
+Frankfort, Kentucky:-84.8732835:38.2009055
+Baton Rouge, Louisiana:-91.154551:30.4507462
+Augusta, Maine:-69.7794897:44.3106241
+Annapolis, Maryland:-76.4921829:38.9784453
+Boston, Massachusetts:-71.0597732:42.3584308
+Lansing, Michigan:-84.5555347:42.732535
+St. Paul, Minnesota:-93.0932742:44.9444101
+Jackson, Mississippi:-90.1848103:32.2987573
+Jefferson City, Missouri:-92.1735164:38.5767017
+Helena, Montana:-112.027031:46.595805
+Lincoln, Nebraska:-96.681679:40.806862
+Carson City, Nevada:-119.7674034:39.1637984
+Concord, New Hampshire:-71.5375718:43.2081366
+Trenton, New Jersey:-74.7429384:40.2170534
+Santa Fe, New Mexico:-105.937799:35.6869752
+Albany, New York:-73.7562317:42.6525793
+Raleigh, North Carolina:-78.6386145:35.772096
+Bismarck, North Dakota:-100.7837392:46.8083268
+Columbus, Ohio:-82.9987942:39.9611755
+Oklahoma City, Oklahoma:-97.5164276:35.4675602
+Salem, Oregon:-123.0350963:44.9428975
+Harrisburg, Pennsylvania:-76.8844179:40.2737002
+Providence, Rhode Island:-71.4128343:41.8239891
+Columbia, South Carolina:-81.0348144:34.0007104
+Pierre, South Dakota:-100.3509665:44.3683156
+Nashville, Tennessee:-86.7844432:36.1658899
+Austin, Texas:-97.7430608:30.267153
+Salt Lake City, Utah:-111.8910474:40.7607793
+Montpelier, Vermont:-72.5753869:44.2600593
+Richmond, Virginia:-77.467:37.533
+Olympia, Washington:-122.9006951:47.0378741
+Charleston, West Virginia:-81.6326234:38.3498195
+Madison, Wisconsin:-89.4012302:43.0730517
+Cheyenne, Wyoming:-104.8202462:41.1399814

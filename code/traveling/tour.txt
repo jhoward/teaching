@@ -1,0 +1,48 @@
+Montgomery, Alabama
+Tallahassee, Florida
+Baton Rouge, Louisiana
+Jackson, Mississippi
+Little Rock, Arkansas
+Austin, Texas
+Oklahoma City, Oklahoma
+Santa Fe, New Mexico
+Phoenix, Arizona
+Carson City, Nevada
+Sacramento, California
+Salem, Oregon
+Olympia, Washington
+Helena, Montana
+Boise, Idaho
+Salt Lake City, Utah
+Denver, Colorado
+Cheyenne, Wyoming
+Pierre, South Dakota
+Bismarck, North Dakota
+St. Paul, Minnesota
+Des Moines, Iowa
+Lincoln, Nebraska
+Topeka, Kansas
+Madison, Wisconsin
+Jefferson City, Missouri
+Springfield, Illinois
+Nashville, Tennessee
+Frankfort, Kentucky
+Indianapolis, Indiana
+Lansing, Michigan
+Columbus, Ohio
+Harrisburg, Pennsylvania
+Trenton, New Jersey
+Hartford, Connecticut
+Providence, Rhode Island
+Boston, Massachusetts
+Augusta, Maine
+Concord, New Hampshire
+Montpelier, Vermont
+Albany, New York
+Dover, Delaware
+Annapolis, Maryland
+Richmond, Virginia
+Raleigh, North Carolina
+Charleston, West Virginia
+Columbia, South Carolina
+Atlanta, Georgia
